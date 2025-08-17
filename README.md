@@ -1,6 +1,7 @@
 # Welcome to Moving Planner 
 ## _Find the best places to live, based on what matters to you._
 
+![Alt text](./doc/moving_master.png "Optional title")
 
 ## Description
 The **Collaborative Moving Planner** feature allows multiple users within a group to jointly curate and evaluate a list of preferred counties or ZIP codes. These shared preferences can be visualized on an interactive U.S. county map and voted on by group members.
